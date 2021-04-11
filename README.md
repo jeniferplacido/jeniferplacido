@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-# Oi! 👋
-
 Meu nome é Jenifer Plácido 👩‍💻
 
 Sou Desenvolvedora Web Java Jr e busco uma oportunidade para atuar na área de programação. 💻
