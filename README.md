@@ -10,6 +10,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 
 - 📍 De Osasco - SP. 
 - 💻 Estudante de Análises e Desenvolvimento de Sistemas - 1º Semestre.
+- 💻 Estudante Desenvolvedora Back End na Reprograma.
 - 👩🏾‍💻 Desenvolvedora Web Java Jr formada pela Generation Brasil.
 - 👩🏾‍🏫Professora Voluntária de Informática para Idosos.
 - 🌱Estou focada em aprender muito sobre a linguagem de programação Java.
