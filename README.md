@@ -2,8 +2,6 @@
 
 Meu nome é Jenifer Plácido 👩‍💻
 
-Sou Desenvolvedora Web Java Jr e busco uma oportunidade para atuar na área de programação. 💻
-
 Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronta para enfrentar as mudanças.
 
 ### 🌍 "Quanto mais eu aprendo, mais eu fico motivada" 🧠
