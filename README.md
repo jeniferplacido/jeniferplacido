@@ -7,7 +7,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 ### 🌍 "Quanto mais eu aprendo, mais eu fico motivada" 🧠
 
 - 📍 De Osasco - SP. 
-- 💻 Estudante de Análises e Desenvolvimento de Sistemas - 2º Semestre.
+- 💻 Estudante de Análises e Desenvolvimento de Sistemas - 3º Semestre.
 - 💻 Desenvolvedora Back End formada pela Reprograma.
 - 👩🏾‍💻 Desenvolvedora Web Java formada pela Generation Brasil.
 - 👩🏾‍🏫Professora Voluntária de Informática para Idosos.
