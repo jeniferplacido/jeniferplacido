@@ -12,9 +12,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 - 👩🏾‍💻 Desenvolvedora Web Java formada pela Generation Brasil.
 - 💻 Formada em Tecnologia da Informação.
 - 💻 Técnica em Informática para Internet.
--![image](https://user-images.githubusercontent.com/66445871/144713320-a79f7f41-a539-4690-9c74-838540002a4f.png)
-Professora de Java.
-- 👩🏾‍🏫Professora Voluntária de Informática para Idosos.
+-Professora de Java.- 👩🏾‍🏫Professora Voluntária de Informática para Idosos
 - 👩🏾‍🏫Professora Voluntária de Programação para todas as idades.
 - 🌱Meu foco é a linguagem de programação Java.
  
