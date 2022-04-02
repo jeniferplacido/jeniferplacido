@@ -7,7 +7,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 ### 🌍 "Quanto mais eu aprendo, mais eu fico motivada" 🧠
 
 - 📍 De Osasco - SP. 
-- 💻 Estudante de Análises e Desenvolvimento de Sistemas - 3º Semestre.
+- 💻 Estudante de Análises e Desenvolvimento de Sistemas - 4º Semestre.
 - 💻 Desenvolvedora Back End formada pela Reprograma.
 - 👩🏾‍💻 Desenvolvedora Web Java formada pela Generation Brasil.
 - 💻 Formada em Tecnologia da Informação.
@@ -15,7 +15,7 @@ Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios
 - 👩🏾‍🏫Professora Voluntária de Informática para Idosos.
 - 👩🏾‍🏫Professora de Linguagem de programação Java.
 - Analista de Engenharia de Software Full Stack em Banco Itaú.
-- 🌱Meu foco é a linguagem de programação Java.
+- 🌱Meu foco é a linguagem de programação Java e AWS.
  
 
 Me alcancem 👇🏼
