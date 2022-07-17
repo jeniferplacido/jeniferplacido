@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá, Eu sou a <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/"><i>Jenifer Plácido</i></a> 😃️</h1>
+  <h1 align="center">Olá, Eu sou a <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/"><i>Jenifer Plácido</i></a> 👩🏾‍💻</h1>
   <p align="center">Desenvolvedora FullStack no Banco Itaú, Intrutora de programação na Gama Academy e Reprograma e TechLead na ong Campinho Digital.
 <div align="center">
   <a href="https://github.com/jeniferplacido">
