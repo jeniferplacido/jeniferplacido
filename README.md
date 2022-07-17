@@ -1,10 +1,13 @@
-## Olá eu sou a Jenifer Plácido, Desenvolvedora Full Stack e Instrutora de Programação!
+<div>
+  <h1 align="center">Olá, Eu sou a <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/"><i>Jenifer Plácido</i></a> 😃️</h1>
+  <p align="center">Desenvolvedora FullStack no Banco Itaú, Intrutora de programação na Gama Academy e Reprograma e TechLead na ong Campinho Digital.
 <div align="center">
   <a href="https://github.com/jeniferplacido">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeniferplacido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferplacido&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeniferplacido&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferplacido&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
+<div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -17,13 +20,17 @@
    <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
    <img align="center" alt="Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg">
 
-</div>
+</div><br>
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jeniferplacido/jeniferplacido/blob/output/github-contribution-grid-snake.svg)
- 
+</div>
+  
+  <div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
