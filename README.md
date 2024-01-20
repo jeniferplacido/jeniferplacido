@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá, Eu sou a <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/"><i>Jenifer Plácido</i></a> 👩🏾‍💻</h1>
-  <p align="center">Engenheira de Software no Banco Itaú
+  <p align="center">Engenheira de Software no Banco Itaú e Educadora de Tecnologia
 <!-- <div align="center">
   <a href="https://github.com/jeniferplacido">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeniferplacido&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
