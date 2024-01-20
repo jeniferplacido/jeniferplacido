@@ -1,12 +1,12 @@
 <div>
   <h1 align="center">Olá, Eu sou a <a href="https://www.linkedin.com/in/jenifer-pl%C3%A1cido-00b5611ab/"><i>Jenifer Plácido</i></a> 👩🏾‍💻</h1>
   <p align="center">Engenheira de Software no Banco Itaú
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jeniferplacido">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeniferplacido&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferplacido&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div> -->
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
